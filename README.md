@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://discord.gg/VKJeg6nvSH">
-  <img src="https://i.imgur.com/1XJhQBe.png"/>
+    <a href="https://discord.gg/dash">
+  <img src="https://i.imgur.com/RZjyfjG.png"/>
     </a>
 </p>
 
