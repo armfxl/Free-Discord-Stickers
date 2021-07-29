@@ -85,3 +85,9 @@ Search for `sticker` and enable `Treatment 1` for all experiments.
 
 ### Thanks for reading!   
 ### By: [armful#0001](https://github.com/armfxl)
+
+<p align="center">
+  <a href="https://discord.gg/MeD6HFx9fG">
+  <img src="https://i.imgur.com/t2jixCo.png"/>
+  </a>
+</p>
